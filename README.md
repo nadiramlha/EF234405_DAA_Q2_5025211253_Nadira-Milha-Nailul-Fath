@@ -31,7 +31,7 @@ The player chooses whether the bot goes first.
 The game alternates between player and bot moves until there is a win or a draw.
 After the game ends, the player can choose to play again or exit.
 
-### 4. Bot Logic:
+#### 4. Bot Logic:
 
 The bot's move is currently determined by randomly selecting an empty cell on the board.
 
